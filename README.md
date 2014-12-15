@@ -1,4 +1,4 @@
-lending-club
+aqsmith / lending-club
 ============
 
 Lending Club Statistics found here: https://www.lendingclub.com/info/statistics.action
